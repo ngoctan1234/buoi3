@@ -9,7 +9,7 @@ import Hook6 from './components/Hook6';
 const App = () => {
     return (
         <div>
-            <h1>Tìm hiểu usestate,useEffect</h1>
+            <h1>Buổi 4: ôn tập usestate</h1>
             <Hook6 />
           </div>
     )
