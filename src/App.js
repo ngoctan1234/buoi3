@@ -10,6 +10,7 @@ const App = () => {
     return (
         <div>
             <h1>Buổi 4: ôn tập usestate, bootstrap</h1>
+            <h2>Ôn tập buổi 4</h2>
             <Hook6 />
           </div>
     )
